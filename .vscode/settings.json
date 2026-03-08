@@ -1,0 +1,15 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "hediet.vscode-drawio-text": true,
+        "workflowStudio.asl": true
+    },
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "workbench.editor.defaultBinaryEditor": "workflowStudio.asl",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "window.density.editorTabHeight": "compact",
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ]
+}
